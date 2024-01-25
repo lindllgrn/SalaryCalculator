@@ -1,4 +1,4 @@
-# Lindsay Green and Caleb Jenkinson
+# Created by Lindsay Green and Caleb Jenkinson
 # January 25, 2024
 # https://github.com/lindllgrn/SalaryCalculator
 # Calculate the unadjusted and adjusted salary, based on what the user makes and the time they work
